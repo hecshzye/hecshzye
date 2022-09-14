@@ -4,7 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/hecshzye" target="blank"><img src="https://img.shields.io/twitter/follow/hecshzye?logo=twitter&style=for-the-badge" alt="hecshzye" /></a> </p>
 
-- 📝 I write about ML, Music & Philosophy [http://hecshzye.substack.com](http://hecshzye.substack.com)
+- 🧠 Working on Brain Computer Interface (BCI) applications **BCI Applications**
+
+- I write about ML, Music & Philosophy [http://hecshzye.substack.com](http://hecshzye.substack.com)
 
 - Say hi 👋 **messages@hecshzye.com**
 
